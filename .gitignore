@@ -1,5 +1,4 @@
 .settings/
-.idea/
 *.iml
 target/
 bin/
